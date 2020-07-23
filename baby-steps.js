@@ -1,3 +1,4 @@
+//Excercise 2
 'use strict'
 
 let sum = 0;
