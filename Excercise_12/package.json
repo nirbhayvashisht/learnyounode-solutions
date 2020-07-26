@@ -1,0 +1,14 @@
+{
+  "name": "excercise_12",
+  "version": "1.0.0",
+  "description": "solution of learnyounode Excercise_12",
+  "main": "http-uppercaserer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nirbhayvashisht",
+  "license": "ISC",
+  "dependencies": {
+    "through2-map": "^3.0.0"
+  }
+}
